@@ -12,4 +12,5 @@ chmod -R u=rw,g=rw,o=r hello olleh => a script to set permission to two files in
 chmod a+x /var/0x01-shell_permissions => gives execution permission to the current directory and all subdirectrories
 mkdir -m 751 my_dir => create new directory with predefined set of permission
 chgrp school hello => a script that changes the group owner
-chown -R vincent:staff 0x01-shell_permissions => change the owner and group owner
+chown -R vincent:staff /tmp   => change the owner and group owner
+chown -h vincent:staff /tmp/_hello => to change sympolic link ownership
