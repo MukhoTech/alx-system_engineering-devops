@@ -13,4 +13,5 @@ ls -lan => Display the current content in a long term
 mkdir /tmp/my_first_directory
 mv betty my_first_directory
 rm betty
-rm -r my_first_directory`
+rm -r my_first_directory
+cd ..
