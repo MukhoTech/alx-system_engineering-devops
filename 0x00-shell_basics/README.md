@@ -7,3 +7,4 @@ git commit -m => it is used to commit changes to repo
 git push => it is used to push changes remotly
 ls => display the content of the directory
 cd => it will always put the user in their home directory
+ls -la => Display current directory contents in a long format
