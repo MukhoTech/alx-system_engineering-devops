@@ -8,3 +8,4 @@ chmod u=x,g=x,o=r hello => a script that adds execute permission to owner,group 
 chmod 111 hello => a script that adds execution permission to the owner,group and other
 chmod 000 hello => a script that sets null permission to the file
 chmod 753 hello => a script that sets the mode of the file with given permissions
+chmod -R u=rw,g=rw,o=r hello olleh => a script to set permission to two files in one directory
