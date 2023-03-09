@@ -3,3 +3,4 @@ id -u -n => a script that prints the effective username of the current user
 id - Gn => a script that prints all the groups the current user is part of.
 sudo chown betty hello => a script that changes the owner of the file
 touch hello => a script that creates an empty file called hello
+chmod u+x hello => a script that adds execute permission to the owner of the file
