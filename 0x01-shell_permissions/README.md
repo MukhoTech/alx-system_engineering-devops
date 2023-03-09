@@ -14,3 +14,4 @@ mkdir -m 751 my_dir => create new directory with predefined set of permission
 chgrp school hello => a script that changes the group owner
 chown -R vincent:staff /tmp   => change the owner and group owner
 chown -h vincent:staff /tmp/_hello => to change sympolic link ownership
+find / -user guillaume -exec chown betty hello =>
