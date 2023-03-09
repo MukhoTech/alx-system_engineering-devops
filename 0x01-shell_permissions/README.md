@@ -9,3 +9,4 @@ chmod 111 hello => a script that adds execution permission to the owner,group an
 chmod 000 hello => a script that sets null permission to the file
 chmod 753 hello => a script that sets the mode of the file with given permissions
 chmod -R u=rw,g=rw,o=r hello olleh => a script to set permission to two files in one directory
+chmod a+x /var/0x01-shell_permissions => gives execution permission to the current directory and all subdirectrories
