@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x /var/0x01-shell_permissions
+chmod a+x /var/tmp
