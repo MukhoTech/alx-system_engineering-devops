@@ -9,4 +9,4 @@ ls => display the content of the directory
 cd => it will always put the user in their home directory
 ls -l => Display current directory contents in a long format
 ls -la => Display current directory contents, including hidden files
-ls - an => Display the current content in a long term
+ls - lan => Display the current content in a long term
