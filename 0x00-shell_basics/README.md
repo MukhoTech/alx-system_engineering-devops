@@ -11,3 +11,4 @@ ls -l => Display current directory contents in a long format
 ls -la => Display current directory contents, including hidden files
 ls -lan => Display the current content in a long term
 mkdir /tmp/my_first_directory
+mv betty my_first_directory
