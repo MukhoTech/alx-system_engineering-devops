@@ -6,3 +6,4 @@ git add . => it is used to add changes to github.com
 git commit -m => it is used to commit changes to repo
 git push => it is used to push changes remotly
 ls => display the content of the directory
+cd => it will always put the user in their home directory
