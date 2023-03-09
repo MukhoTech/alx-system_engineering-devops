@@ -17,4 +17,5 @@ rm -r my_first_directory
 cd ..
 ls -laboot ..
 file iamafile
-ls -s/bin/ls/alx-system_engineering-devops/_ls_
+ls -s/bin/ls/alx-system_engineering-devops/_ls
+cp alx-system_engineering-devops/0x00-shell_basics/folder_source/*.html documents/x00-shell_basics/_
