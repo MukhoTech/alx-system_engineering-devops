@@ -6,3 +6,4 @@ touch hello => a script that creates an empty file called hello
 chmod u+x hello => a script that adds execute permission to the owner of the file
 chmod u=x,g=x,o=r hello => a script that adds execute permission to owner,group and others 
 chmod 111 hello => a script that adds execution permission to the owner,group and other
+chmod 000 hello => a script that sets null permission to the file
