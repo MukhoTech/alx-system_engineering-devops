@@ -15,3 +15,4 @@ mv betty my_first_directory
 rm betty
 rm -r my_first_directory
 cd ..
+ls -laboot ..
