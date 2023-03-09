@@ -11,3 +11,4 @@ chmod 753 hello => a script that sets the mode of the file with given permission
 chmod -R u=rw,g=rw,o=r hello olleh => a script to set permission to two files in one directory
 chmod a+x /var/0x01-shell_permissions => gives execution permission to the current directory and all subdirectrories
 mkdir -m 751 my_dir => create new directory with predefined set of permission
+chgrp school hello => a script that changes the group owner
