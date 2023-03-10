@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -s/bin/ls/alx-system_engineering-devops/_ls_
+ln -s/tmp/_ls_
