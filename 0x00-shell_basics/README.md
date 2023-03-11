@@ -19,4 +19,5 @@ ls -laboot ..
 file /tmp/iamafile
 ln -s/tmp/_ls
 cp alx-system_engineering-devops/0x00-shell_basics/folder_source/*.html documents/x00-shell_basics/
-mv [[:upper:]] /tmp/u_
+mv [[:upper:]] /tmp/u
+rm *~ _
